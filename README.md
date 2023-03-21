@@ -23,3 +23,8 @@ https://unsplash.com/
 #### :large_blue_diamond: As a part of our academic project in Programming with Python during our third semester, my friend <br> Jeel Butani :link: https://github.com/jeel-butani and I collaborated on this project. We worked as a team of two members to complete this project.
 
 #### To provide a glimpse of this project, I've attached video of its output. Check out below!
+
+
+
+https://user-images.githubusercontent.com/92502898/226651924-d4eb3bb4-853d-474b-935b-976c46a0bf55.mp4
+
