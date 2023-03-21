@@ -1,5 +1,5 @@
 ## TITLE : Online-Furniture-Store
-#### This project is a web application for an online furniture store, built using the Django framework in Python.<br> The website allows users to browse through a variety of furniture items, view their details and images
+#### This project is a fully-functional web application designed for an online furniture store, which was built using the powerful Django framework in the versatile Python programming language. The website boasts a user-friendly interface that allows users to seamlessly browse through an extensive collection of high-quality furniture items, view detailed information about each product, and peruse a plethora of images to get a better sense of each item's style and functionality.
 
 ### This project includes the following modules:
 <table>
